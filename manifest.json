@@ -1,0 +1,12 @@
+{
+  "background_color": "#19a1ff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Live TV",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Live TV",
+  "start_url": "/",
+  "theme_color": "#302525",
+  "description": "Regardez vos flux TV autorisés"
+}
