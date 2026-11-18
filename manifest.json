@@ -1,7 +1,17 @@
-"icons": [
-  {
-    "src": "./icon.png",
-    "sizes": "1024x1024",
-    "type": "image/png"
-  }
-]
+{
+  "name": "Live TV",
+  "short_name": "Live TV",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#071426",
+  "background_color": "#071426",
+  "description": "Regardez vos flux TV autorisés.",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
